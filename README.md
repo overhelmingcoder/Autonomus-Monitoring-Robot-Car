@@ -1,17 +1,4 @@
-Understood.
-Below is a **single, complete, professional, GitHub-ready `README.md`** — **not fragmented**, not abbreviated, not conversational.
-You can **copy-paste this as-is** into your repository.
 
-This README is written at a **professional engineering standard**, suitable for:
-
-* GitHub public projects
-* Academic evaluation
-* Portfolio showcase
-* Open-source users who want to reproduce the system
-
----
-
-```markdown
 # 🚗 Raspberry Pi Real-Time Computer Vision System  
 **Object Detection, Counting & Live Flask Streaming**
 
